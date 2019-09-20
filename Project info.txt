@@ -1,0 +1,4 @@
+Duplicates using C++ 
+• Developed a C++ program that takes path of a directory and file type as input and show duplicates in that directory.
+• The program searches the directory recursively and stores each file name with its different locations, if found.
+• Program also allows to search a specific string entered by user in that directory, and displays the line in which the text is found.
